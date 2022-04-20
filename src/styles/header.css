@@ -1,0 +1,17 @@
+#header{
+    background-image: url("../media/wallpaper_patterns.jpg");
+    text-align: center;
+    color: white;
+    height: 300px;
+    width: 100%;
+    position: relative;
+}
+
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    right: 43%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
