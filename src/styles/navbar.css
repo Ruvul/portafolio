@@ -1,0 +1,11 @@
+.navbar {
+    background-color: #463a39;
+    background-position: center;
+    background-size: cover;
+  }
+
+.logo {
+  background-image: url("../media/logo_am_blanco.png");
+  background-position:top;
+  background-size: cover;
+}

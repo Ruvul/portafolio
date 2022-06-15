@@ -1,0 +1,14 @@
+.App {
+  background-color: #202020;
+  background-position: center;
+
+  height: auto;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+}
+
+.logo {
+  background-image: url("../media/logo_am_blanco.png");
+}

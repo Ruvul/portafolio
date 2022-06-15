@@ -1,0 +1,15 @@
+.Portafolio{
+    background-color: #202020;
+    background-position: center;
+
+    height: auto;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+}
+
+#aboutme{
+    width: 100px;
+    width: 2000px;
+}
